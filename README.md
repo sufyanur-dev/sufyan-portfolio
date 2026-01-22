@@ -1,7 +1,7 @@
 # My Portfolio
-Welcome to my portfolio! This project showcases my skills, projects, and experiences as a frontend developer.
+Welcome to my portfolio! This project showcases my skills, projects, and experiences as a MERN Stack Developer.
 
-### Weblink: [Live Website](https://portfolio-lgi2.onrender.com)
+### Weblink: [Live Website]( sufyanurrasheed.onrender.com)
 ## Some Images:
 <img width="450px;" src="https://github.com/sufyan4081/sufyan-portfolio/blob/master/src/assets/Home%20page.png?raw=true"/>
 <img width="450px;" src="https://github.com/sufyan4081/sufyan-portfolio/blob/master/src/assets/skills.png?raw=true"/>
@@ -34,18 +34,21 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - React.js: A JavaScript library for building user interfaces.
 - HTML5 & CSS3: Markup and styling languages for building web pages.
 - JavaScript: A programming language for adding interactivity to web applications.
+- Node.js: Runtime environment for executing the javascript file on the server.
+- Express.js: A minimal node.js framework.
+- MongoDB: NoSql database.
 - Style-Components: A CSS framework for creating responsive and mobile-first designs.
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications.
 
+
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/sufyan4081/Portfolio.git`
-2. Navigate to the project directory: `cd Portfolio`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:5173`
+1. Clone the repository: `git clone https://github.com/sufyanur-dev`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm run dev`
+4. Open your browser and visit: `http://localhost:5173`
 
 ## Usage
 After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
